@@ -23,9 +23,11 @@ span {
   width: 150px;
   height: 150px;
   /* background: #000; */
-  background: url(image.jpg);
+  /* background: url(image.jpg); */
+  background: url(home-bg-8.jpg);
   background-size: cover;
   background-attachment: fixed;
   pointer-events: none;
   border-radius: 50%;
 }
+
